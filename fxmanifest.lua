@@ -13,9 +13,6 @@ client_script 'client.lua'
 files {
     'index.html',
     'style.css',
-    'script.js',
-    'img/background1.jpg',
-    'img/background2.jpg',
-    'img/background3.jpg',
-    'music/music.mp3'
+    'music/music.mp3',
+    'video/video.mp4'
 }
